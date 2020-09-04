@@ -1,0 +1,112 @@
+/*
+$primary-color: #f1e1c9;
+$secondary-color: #faf8f0;
+$tertiary-color: #cfecf5;
+$quad-color: #a9e2f5;  */
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  background-color: #e7e7e7;
+}
+
+.para {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  font-family: "Lobster Two";
+  font-size: 1rem;
+  background-color: #ecd6c6;
+  padding: 0.5rem;
+}
+
+.para .first {
+  color: #f7f1ec;
+}
+
+.para .second {
+  color: #f7f1ec;
+}
+
+.contact-section {
+  background-size: cover;
+}
+
+.contact-section h1 {
+  text-align: center;
+  color: #f7f1ec;
+  font-size: 3rem;
+}
+
+.border {
+  width: 100px;
+  height: 5px;
+  background: #ecd6c6;
+  margin: 10px auto;
+}
+
+.contact-form {
+  max-width: 500px;
+  margin: auto;
+  padding: 5px 5px;
+  overflow: hidden;
+  -webkit-box-shadow: 7px 7px 15px #f7f1ec, -4px -4px 13px #f7f1ec;
+          box-shadow: 7px 7px 15px #f7f1ec, -4px -4px 13px #f7f1ec;
+}
+
+.contact-form-text {
+  display: block;
+  width: 100%;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin: 5px 0;
+  border: 0;
+  background: #ecd6c6;
+  padding: 20px 40px;
+  outline: none;
+  color: #ec8094;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  font-size: 1rem;
+}
+
+.contact-form-text:focus {
+  -webkit-box-shadow: 0 0 10px 4px #f7f1ec;
+          box-shadow: 0 0 10px 4px #f7f1ec;
+}
+
+textarea.contact-form-text {
+  resize: none;
+  height: 120px;
+  font-size: 1rem;
+}
+
+.contact-form-btn {
+  float: right;
+  border: 0;
+  background: #ecd6c6;
+  color: #fff;
+  padding: 12px 50px;
+  cursor: pointer;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+}
+
+.contact-form-btn:hover {
+  background: #ec8094;
+}
+/*# sourceMappingURL=contact.css.map */
