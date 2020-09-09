@@ -595,38 +595,38 @@ body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div
 
 body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div h5 span:nth-of-type(1),
 body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div h5 span:nth-of-type(1) {
-  -webkit-transform: translateZ(503px);
-          transform: translateZ(503px);
+  -webkit-transform: translateZ(522px);
+          transform: translateZ(522px);
 }
 
 body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div h5 span:nth-of-type(2),
 body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div h5 span:nth-of-type(2) {
-  -webkit-transform: translateZ(202px);
-          transform: translateZ(202px);
+  -webkit-transform: translateZ(144px);
+          transform: translateZ(144px);
 }
 
 body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div h5 span:nth-of-type(3),
 body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div h5 span:nth-of-type(3) {
-  -webkit-transform: translateZ(214px);
-          transform: translateZ(214px);
+  -webkit-transform: translateZ(379px);
+          transform: translateZ(379px);
 }
 
 body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div h5 span:nth-of-type(4),
 body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div h5 span:nth-of-type(4) {
-  -webkit-transform: translateZ(203px);
-          transform: translateZ(203px);
+  -webkit-transform: translateZ(57px);
+          transform: translateZ(57px);
 }
 
 body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div h5 span:nth-of-type(5),
 body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div h5 span:nth-of-type(5) {
-  -webkit-transform: translateZ(340px);
-          transform: translateZ(340px);
+  -webkit-transform: translateZ(367px);
+          transform: translateZ(367px);
 }
 
 body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div h5 span:nth-of-type(6),
 body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div h5 span:nth-of-type(6) {
-  -webkit-transform: translateZ(362px);
-          transform: translateZ(362px);
+  -webkit-transform: translateZ(175px);
+          transform: translateZ(175px);
 }
 
 body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .pagenumber,
@@ -670,242 +670,242 @@ body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div
 
 body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(1),
 body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(1) {
-  -webkit-transform: translateZ(770px);
-          transform: translateZ(770px);
+  -webkit-transform: translateZ(180px);
+          transform: translateZ(180px);
 }
 
 body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(2),
 body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(2) {
-  -webkit-transform: translateZ(219px);
-          transform: translateZ(219px);
+  -webkit-transform: translateZ(569px);
+          transform: translateZ(569px);
 }
 
 body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(3),
 body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(3) {
-  -webkit-transform: translateZ(342px);
-          transform: translateZ(342px);
+  -webkit-transform: translateZ(262px);
+          transform: translateZ(262px);
 }
 
 body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(4),
 body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(4) {
-  -webkit-transform: translateZ(565px);
-          transform: translateZ(565px);
+  -webkit-transform: translateZ(721px);
+          transform: translateZ(721px);
 }
 
 body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(5),
 body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(5) {
-  -webkit-transform: translateZ(541px);
-          transform: translateZ(541px);
+  -webkit-transform: translateZ(356px);
+          transform: translateZ(356px);
 }
 
 body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(6),
 body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(6) {
-  -webkit-transform: translateZ(586px);
-          transform: translateZ(586px);
+  -webkit-transform: translateZ(536px);
+          transform: translateZ(536px);
 }
 
 body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(7),
 body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(7) {
-  -webkit-transform: translateZ(726px);
-          transform: translateZ(726px);
+  -webkit-transform: translateZ(514px);
+          transform: translateZ(514px);
 }
 
 body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(8),
 body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(8) {
-  -webkit-transform: translateZ(602px);
-          transform: translateZ(602px);
+  -webkit-transform: translateZ(224px);
+          transform: translateZ(224px);
 }
 
 body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(9),
 body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(9) {
-  -webkit-transform: translateZ(280px);
-          transform: translateZ(280px);
+  -webkit-transform: translateZ(477px);
+          transform: translateZ(477px);
 }
 
 body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(10),
 body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(10) {
-  -webkit-transform: translateZ(230px);
-          transform: translateZ(230px);
+  -webkit-transform: translateZ(630px);
+          transform: translateZ(630px);
 }
 
 body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(11),
 body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(11) {
-  -webkit-transform: translateZ(302px);
-          transform: translateZ(302px);
+  -webkit-transform: translateZ(612px);
+          transform: translateZ(612px);
 }
 
 body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(12),
 body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(12) {
-  -webkit-transform: translateZ(672px);
-          transform: translateZ(672px);
+  -webkit-transform: translateZ(529px);
+          transform: translateZ(529px);
 }
 
 body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(13),
 body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(13) {
-  -webkit-transform: translateZ(236px);
-          transform: translateZ(236px);
+  -webkit-transform: translateZ(478px);
+          transform: translateZ(478px);
 }
 
 body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(14),
 body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(14) {
-  -webkit-transform: translateZ(611px);
-          transform: translateZ(611px);
+  -webkit-transform: translateZ(472px);
+          transform: translateZ(472px);
 }
 
 body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(15),
 body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(15) {
-  -webkit-transform: translateZ(231px);
-          transform: translateZ(231px);
+  -webkit-transform: translateZ(523px);
+          transform: translateZ(523px);
 }
 
 body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(16),
 body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(16) {
-  -webkit-transform: translateZ(270px);
-          transform: translateZ(270px);
-}
-
-body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(17),
-body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(17) {
-  -webkit-transform: translateZ(649px);
-          transform: translateZ(649px);
-}
-
-body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(18),
-body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(18) {
-  -webkit-transform: translateZ(201px);
-          transform: translateZ(201px);
-}
-
-body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(19),
-body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(19) {
-  -webkit-transform: translateZ(388px);
-          transform: translateZ(388px);
-}
-
-body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(20),
-body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(20) {
-  -webkit-transform: translateZ(350px);
-          transform: translateZ(350px);
-}
-
-body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(21),
-body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(21) {
-  -webkit-transform: translateZ(188px);
-          transform: translateZ(188px);
-}
-
-body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(22),
-body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(22) {
-  -webkit-transform: translateZ(436px);
-          transform: translateZ(436px);
-}
-
-body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(23),
-body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(23) {
-  -webkit-transform: translateZ(362px);
-          transform: translateZ(362px);
-}
-
-body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(24),
-body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(24) {
-  -webkit-transform: translateZ(219px);
-          transform: translateZ(219px);
-}
-
-body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(25),
-body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(25) {
-  -webkit-transform: translateZ(245px);
-          transform: translateZ(245px);
-}
-
-body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(26),
-body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(26) {
-  -webkit-transform: translateZ(698px);
-          transform: translateZ(698px);
-}
-
-body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(27),
-body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(27) {
-  -webkit-transform: translateZ(625px);
-          transform: translateZ(625px);
-}
-
-body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(28),
-body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(28) {
-  -webkit-transform: translateZ(604px);
-          transform: translateZ(604px);
-}
-
-body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(29),
-body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(29) {
-  -webkit-transform: translateZ(301px);
-          transform: translateZ(301px);
-}
-
-body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(30),
-body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(30) {
-  -webkit-transform: translateZ(767px);
-          transform: translateZ(767px);
-}
-
-body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(31),
-body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(31) {
-  -webkit-transform: translateZ(603px);
-          transform: translateZ(603px);
-}
-
-body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(32),
-body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(32) {
-  -webkit-transform: translateZ(745px);
-          transform: translateZ(745px);
-}
-
-body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(33),
-body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(33) {
-  -webkit-transform: translateZ(372px);
-          transform: translateZ(372px);
-}
-
-body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(34),
-body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(34) {
-  -webkit-transform: translateZ(728px);
-          transform: translateZ(728px);
-}
-
-body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(35),
-body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(35) {
-  -webkit-transform: translateZ(214px);
-          transform: translateZ(214px);
-}
-
-body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(36),
-body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(36) {
-  -webkit-transform: translateZ(201px);
-          transform: translateZ(201px);
-}
-
-body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(37),
-body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(37) {
-  -webkit-transform: translateZ(618px);
-          transform: translateZ(618px);
-}
-
-body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(38),
-body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(38) {
-  -webkit-transform: translateZ(713px);
-          transform: translateZ(713px);
-}
-
-body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(39),
-body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(39) {
   -webkit-transform: translateZ(348px);
           transform: translateZ(348px);
 }
 
+body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(17),
+body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(17) {
+  -webkit-transform: translateZ(298px);
+          transform: translateZ(298px);
+}
+
+body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(18),
+body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(18) {
+  -webkit-transform: translateZ(408px);
+          transform: translateZ(408px);
+}
+
+body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(19),
+body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(19) {
+  -webkit-transform: translateZ(450px);
+          transform: translateZ(450px);
+}
+
+body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(20),
+body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(20) {
+  -webkit-transform: translateZ(617px);
+          transform: translateZ(617px);
+}
+
+body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(21),
+body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(21) {
+  -webkit-transform: translateZ(758px);
+          transform: translateZ(758px);
+}
+
+body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(22),
+body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(22) {
+  -webkit-transform: translateZ(211px);
+          transform: translateZ(211px);
+}
+
+body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(23),
+body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(23) {
+  -webkit-transform: translateZ(546px);
+          transform: translateZ(546px);
+}
+
+body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(24),
+body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(24) {
+  -webkit-transform: translateZ(563px);
+          transform: translateZ(563px);
+}
+
+body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(25),
+body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(25) {
+  -webkit-transform: translateZ(674px);
+          transform: translateZ(674px);
+}
+
+body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(26),
+body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(26) {
+  -webkit-transform: translateZ(587px);
+          transform: translateZ(587px);
+}
+
+body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(27),
+body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(27) {
+  -webkit-transform: translateZ(695px);
+          transform: translateZ(695px);
+}
+
+body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(28),
+body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(28) {
+  -webkit-transform: translateZ(486px);
+          transform: translateZ(486px);
+}
+
+body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(29),
+body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(29) {
+  -webkit-transform: translateZ(661px);
+          transform: translateZ(661px);
+}
+
+body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(30),
+body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(30) {
+  -webkit-transform: translateZ(277px);
+          transform: translateZ(277px);
+}
+
+body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(31),
+body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(31) {
+  -webkit-transform: translateZ(711px);
+          transform: translateZ(711px);
+}
+
+body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(32),
+body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(32) {
+  -webkit-transform: translateZ(228px);
+          transform: translateZ(228px);
+}
+
+body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(33),
+body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(33) {
+  -webkit-transform: translateZ(390px);
+          transform: translateZ(390px);
+}
+
+body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(34),
+body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(34) {
+  -webkit-transform: translateZ(591px);
+          transform: translateZ(591px);
+}
+
+body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(35),
+body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(35) {
+  -webkit-transform: translateZ(183px);
+          transform: translateZ(183px);
+}
+
+body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(36),
+body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(36) {
+  -webkit-transform: translateZ(577px);
+          transform: translateZ(577px);
+}
+
+body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(37),
+body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(37) {
+  -webkit-transform: translateZ(751px);
+          transform: translateZ(751px);
+}
+
+body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(38),
+body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(38) {
+  -webkit-transform: translateZ(350px);
+          transform: translateZ(350px);
+}
+
+body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(39),
+body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(39) {
+  -webkit-transform: translateZ(353px);
+          transform: translateZ(353px);
+}
+
 body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div .content h1 span:nth-of-type(40),
 body .pages input:nth-of-type(2):not(:checked) + input + input + div + div + div + div .content h1 span:nth-of-type(40) {
-  -webkit-transform: translateZ(234px);
-          transform: translateZ(234px);
+  -webkit-transform: translateZ(655px);
+          transform: translateZ(655px);
 }
 
 body .pages_page {

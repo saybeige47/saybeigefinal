@@ -33,7 +33,7 @@ a {
 .menu-left {
   display: flex;
 }
-.menu-left a {
+.menu-left span {
   color: #4a5057;
   font-size: 2rem;
   margin: 0px 15px;
@@ -121,42 +121,31 @@ nav {
   margin-right: 10rem;
 }
 .box-img01 {
-  background-image: url("../images/livingroom.jpg");
-  background-size: fill;
+  background-image: url("../images/moodboard8.jpg");
+  background-size: cover;
 }
 .box-img02 {
-  background-image: url("../images/livingroom.jpg");
+  background-image: url("../images/moodboard7.jpg");
+  background-size: fill;
 }
 .box-img03 {
-  background-image: url("../images/livingroom.jpg");
+  background-image: url("../images/moodboard6.jpg");
 }
 .box-img04 {
-  background-image: url("../images/livingroom.jpg");
+  background-image: url("../images/moodboard5.jpg");
 }
 .box-img05 {
-  background-image: url("../images/livingroom.jpg");
+  background-image: url("../images/moodboard4.jpg");
 }
 .box-img06 {
-  background-image: url("../images/livingroom.jpg");
+  background-image: url("../images/moodboard3.jpg");
+  background-size: contain;
 }
-.user-img01 {
-  background-image: url("../images/109134-Marie_Avgeropoulos-brunette-blue_background-jacket-model.jpg");
+.box-img07 {
+  background-image: url("../images/moodboard2.jpg");
+  background-size: cover;
 }
-.user-img02 {
-  background-image: url("../images/66990853-man-student-smile-and-use-phone-isolated-on-blue-background-asian.jpg");
-}
-.user-img03 {
-  background-image: url("../images/khilari-daff-hilary-duff-model-pevitsa-blondinka-pricheska-m.jpg");
-}
-.user-img04 {
-  background-image: url("../images/109134-Marie_Avgeropoulos-brunette-blue_background-jacket-model.jpg");
-}
-.user-img05 {
-  background-image: url("../images/66990853-man-student-smile-and-use-phone-isolated-on-blue-background-asian.jpg");
-}
-.user-img06 {
-  background-image: url("../images/khilari-daff-hilary-duff-model-pevitsa-blondinka-pricheska-m.jpg");
-}
+
 
 .g-heading span {
   width: 30px;
@@ -287,16 +276,16 @@ nav {
 }
 
 .front-icon {
-  background-image: url("../images/logo.png");
+  background-color: #9f9e9e;
 }
 .back-icon {
-  background-image: url("../images/logo.png");
+  background-color: #545562;
 }
 .seo-icon {
-  background-image: url("../images/logo.png");
+  background-color: #9697a0;
 }
 .gui-icon {
-  background-image: url("../images/logo.png");
+  background-color: #9a9ff6;
 }
 
 .team-img {
@@ -654,5 +643,7 @@ footer {
   }
   .search {
     display: block;
+    
   }
 }
+
