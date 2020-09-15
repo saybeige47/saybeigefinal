@@ -18,7 +18,8 @@ a {
 }
 .main {
   height: 150vh;
-  background-image: url("../images/bg.png");
+  /*
+  background-image: url("../images/background.jfif"); */
   background-position: bottom;
   background-repeat: no-repeat;
   background-size: cover;
@@ -121,15 +122,15 @@ nav {
   margin-right: 10rem;
 }
 .box-img01 {
-  background-image: url("../images/moodboard8.jpg");
+  background-image: url("../images/moodboard8.jfif");
   background-size: cover;
 }
 .box-img02 {
-  background-image: url("../images/moodboard7.jpg");
+  background-image: url("../images/moodboard7.png");
   background-size: fill;
 }
 .box-img03 {
-  background-image: url("../images/moodboard6.jpg");
+  background-image: url("../images/moodboard6.jfif");
 }
 .box-img04 {
   background-image: url("../images/moodboard5.jpg");
@@ -138,12 +139,12 @@ nav {
   background-image: url("../images/moodboard4.jpg");
 }
 .box-img06 {
-  background-image: url("../images/moodboard3.jpg");
-  background-size: contain;
+  background-image: url("../images/moodboard2.jfif");
+  background-size: fill;
 }
 .box-img07 {
-  background-image: url("../images/moodboard2.jpg");
-  background-size: cover;
+  background-image: url("../images/moodboard11.jfif");
+  background-size: fill;
 }
 
 
@@ -165,7 +166,7 @@ nav {
   flex-direction: column;
   justify-content: center;
 }
-.g-heading p {
+.g-heading h2 {
   font-weight: bold;
   font-size: 20px;
   color: #3d3d3e;
@@ -205,7 +206,7 @@ nav {
 .p-heading p:nth-child(2),
 .t-heading p:nth-child(2),
 .s-heading p:nth-child(2) {
-  font-family: myriad pro;
+  font-family: "nunito";
   font-size: 14px;
   color: #9f9e9e;
   margin-top: 0px;
@@ -325,7 +326,9 @@ nav {
   justify-content: center;
   margin-top: 20px;
 }
+  /*
 .t-img1 {
+  /*
   background-image: url("../images/ppl1.jfif");
 }
 .t-img2 {
@@ -334,10 +337,11 @@ nav {
 .t-img3 {
   background-image: url("../images/ppl3.jfif");
 }
+*/
 
 .contact {
   width: 100%;
-  height: 200px;
+  height: 100px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -622,6 +626,9 @@ footer {
   }
   .p-heading p {
     width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
   .dw-footer {
     flex-direction: column;
