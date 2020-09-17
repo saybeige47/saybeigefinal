@@ -17,9 +17,9 @@ a {
   font-family: "nunito";
 }
 .main {
-  height: 150vh;
-  /*
-  background-image: url("../images/background.jfif"); */
+  height: 120vh;
+  
+  background-image: url("../images/bg.png");
   background-position: bottom;
   background-repeat: no-repeat;
   background-size: cover;
